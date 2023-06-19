@@ -1,4 +1,1 @@
-Windows Registry Editor Version 5.00                                                                                                                                                                                     YouTube.Com/AdamxYT
 
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp]
-"PortNumber"=dword:9201
